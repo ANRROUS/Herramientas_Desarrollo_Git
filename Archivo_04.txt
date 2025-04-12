@@ -1,0 +1,1 @@
+En este archivo se van a colocar las lecciones aprendidas a lo largo de cada semana durante la integración y actualización de cada funcionalidad
